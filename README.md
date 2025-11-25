@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ Tech Stack – Neon Arsenal
+## ⚡ Tech Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,js,react,html,css,git,linux,vscode,github" />
 </p>
