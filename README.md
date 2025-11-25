@@ -4,10 +4,9 @@
 ## 🎮 About Me  
 ```bash
 > Identity:      Mohsin Khalid Dar
-> Mode:          Dark ⚫ | Cyberpunk 🌌 | Football ⚽ | Gaming 🎮
-> Languages:     C++ | Python | JS
+> Mode:          Football ⚽ | Gaming 🎮
+> Languages:     C | C++ | Python | JS 
 > Arsenal:       Git | React | Linux | ML/AI Basics
-> Current Quest: Transition → IT Career ⚡
 > Status:        Grinding + Leveling Up + Shipping Projects 💻
 ```
 
