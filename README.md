@@ -20,18 +20,6 @@
 ---
 
 
-</div>
-
----
-
-## 🌌 Cyberpunk GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsinKhalidDar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinKhalidDar&theme=tokyonight&hide_border=true&background=000000" height="165"/>
-</p>
-
----
-
 ## ⚽ Football Mode ON
 <p align="center">
   <img src="https://media.tenor.com/Q67dP8n9bi8AAAAC/ronaldo-siuuu.gif" width="280">
