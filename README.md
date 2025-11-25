@@ -3,10 +3,8 @@
 
 ## 🎮 About Me  
 ```bash
-> Identity:      Mohsin Khalid Dar
 > Mode:          Football ⚽ | Gaming 🎮
 > Languages:     C | C++ | Python | JS 
-> Arsenal:       Git | React | Linux | ML/AI Basics
 > Status:        Grinding + Leveling Up + Shipping Projects 💻
 ```
 
