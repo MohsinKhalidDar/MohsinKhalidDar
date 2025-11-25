@@ -1,4 +1,4 @@
-# Mohsin Khalid Dar — Cyberpunk Neon GitHub Profile
+# Mohsin Khalid Dar  
 
 ## 🎮 About Me — The Neon Edition
 ```bash
