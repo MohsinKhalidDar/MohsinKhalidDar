@@ -1,6 +1,6 @@
 # Mohsin Khalid Dar  
 
-## 🎮 About Me — The Neon Edition
+## 🎮 About Me  
 ```bash
 > Identity:      Mohsin Khalid Dar
 > Mode:          Dark ⚫ | Cyberpunk 🌌 | Football ⚽ | Gaming 🎮
