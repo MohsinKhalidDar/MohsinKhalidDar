@@ -1,4 +1,5 @@
-# Mohsin Khalid Dar  
+🌟 Mohsin Dar — Developer | Analyst | Learner
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3500&color=4AF2F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohsin+Dar!;Software+Developer+%7C+Data+Analyst;AI%2FML+Enthusiast+%7C+C%2B%2B+Specialist;Always+Learning+Something+New!"> </p>
 
 ## 🎮 About Me  
 ```bash
