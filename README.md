@@ -18,16 +18,6 @@
 
 ---
 
-
-## ⚽ Football Mode ON
-<p align="center">
-  <img src="https://media.tenor.com/Q67dP8n9bi8AAAAC/ronaldo-siuuu.gif" width="280">
-  <br>
-  <strong>“Siuuuuuuu!” — CR7</strong>
-</p>
-
----
-
 ## 💌 Let's Connect
 <p align="center">
   <a href="mailto:mohsinmohsin6722@gmail.com">
