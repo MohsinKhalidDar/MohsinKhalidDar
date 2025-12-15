@@ -8,7 +8,6 @@
 > Languages:     C | C++ | Python | JS 
 > Status:        Grinding + Leveling Up + Shipping Projects 💻
 ```
-
 ---
 
 ## ⚡ Tech Stack 
