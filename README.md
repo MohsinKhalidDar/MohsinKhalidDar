@@ -29,12 +29,23 @@ I focus on **understanding data deeply**, asking the right questions, and commun
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 
-  <!-- Statistics & ML Basics -->
+  <!-- Statistics & Modeling -->
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
+  <img src="https://img.shields.io/badge/Statsmodels-2C3E50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
 
-  <!-- Notebooks & Tools -->
+  <!-- Data Collection -->
+  <img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4EAA25?style=for-the-badge" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+  <!-- Workflow & Tools -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 
