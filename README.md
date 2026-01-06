@@ -14,17 +14,29 @@ I focus on **understanding data deeply**, asking the right questions, and commun
 
 ---
 
-## 🧰 Data Science Stack  
+## 🧰Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,react,html,css,git,linux,vscode,github,jupyternotebook" />
 </p>
 
 <p align="center">
+  <!-- Core Data Handling -->
   <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <!-- Visualization -->
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+
+  <!-- Statistics & ML Basics -->
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+
+  <!-- Notebooks & Tools -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
 
 ---
 
