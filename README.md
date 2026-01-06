@@ -1,5 +1,5 @@
 # Mohsin Dar  
-**Software Engineer | Data Analyst | Systems-Oriented Learner**
+**Software Engineer | Data Analyst**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&color=4AF2F7&center=true&vCenter=true&width=720&lines=Software+Engineering+%7C+Data+Analytics;C%2B%2B+%7C+Python+%7C+SQL;Focused+on+Fundamentals+and+Real-World+Systems">
@@ -7,7 +7,6 @@
 
 ---
 
-## Professional Summary
 
 I am a **B.Tech graduate in Materials science Engineering** transitioning into **software engineering and data analytics**, with a strong focus on **C++ fundamentals, data-driven problem solving, and system-level understanding**.
 
