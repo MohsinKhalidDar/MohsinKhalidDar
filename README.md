@@ -16,7 +16,7 @@ I value **depth over buzzwords** and enjoy building things that actually work.
 
 ## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,sql,js,react,html,css,git,linux,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,react,html,css,git,linux,vscode,github" />
 </p>
 
 ---
