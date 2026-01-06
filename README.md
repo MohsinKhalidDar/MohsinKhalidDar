@@ -16,7 +16,7 @@ I focus on **understanding data deeply**, asking the right questions, and commun
 
 ## 🧰Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,react,html,css,git,linux,vscode,github,jupyternotebook" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,react,html,css,vscode,github,jupyternotebook" />
 </p>
 
 <p align="center">
