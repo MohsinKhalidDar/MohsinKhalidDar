@@ -37,6 +37,8 @@ I focus on **understanding data deeply**, asking the right questions, and commun
   <!-- Data Collection -->
   <img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BeautifulSoup-4EAA25?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
+
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
