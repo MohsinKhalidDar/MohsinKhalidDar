@@ -13,6 +13,10 @@ I’m a **B.Tech graduate** transitioning into **data analytics and data science
 I focus on **understanding data deeply**, asking the right questions, and communicating insights clearly — not just running models.
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohsinKhalidDar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 ## 🧰Tech Stack  
 <p align="center">
