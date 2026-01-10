@@ -84,6 +84,10 @@ I focus on **understanding data deeply**, asking the right questions, and commun
   <a href="https://instagram.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 </p>
 
 
