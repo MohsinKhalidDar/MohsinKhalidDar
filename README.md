@@ -78,7 +78,14 @@ I focus on **understanding data deeply**, asking the right questions, and commun
   <a href="https://github.com/MohsinKhalidDar">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://bsky.app/profile/mohsindar.blueskysocial">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
