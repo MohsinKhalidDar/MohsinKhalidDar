@@ -1,9 +1,9 @@
 # Mohsin Dar  
 ### Data Analyst • Aspiring Data Scientist • Python | SQL
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohsinKhalidDar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&color=22D3EE&center=true&vCenter=true&width=720&lines=Data+Analysis+%7C+Python+%7C+SQL;Exploratory+Data+Analysis+%26+Visualization;Turning+Data+into+Insights">
@@ -12,15 +12,17 @@
 ---
 
 ## 📊 About Me  
+
 I’m a **B.Tech graduate** transitioning into **data analytics and data science**, with hands-on experience in **Python-based analysis, SQL, and data visualization**.
 
 I focus on **understanding data deeply**, asking the right questions, and communicating insights clearly — not just running models.
 
 ---
 
-## 🧰Tech Stack  
+## 🧰 Tech Stack  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,react,html,css,vscode,github,jupyternotebook" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,react,html,css,vscode,github,jupyternotebook" />
 </p>
 
 <p align="center">
@@ -43,7 +45,6 @@ I focus on **understanding data deeply**, asking the right questions, and commun
   <img src="https://img.shields.io/badge/BeautifulSoup-4EAA25?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
 
-
   <!-- Databases -->
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -54,10 +55,10 @@ I focus on **understanding data deeply**, asking the right questions, and commun
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
 ---
 
 ## 📈 What I Work On  
+
 - Exploratory Data Analysis (EDA)  
 - Data cleaning & transformation  
 - SQL querying & reporting  
@@ -67,13 +68,15 @@ I focus on **understanding data deeply**, asking the right questions, and commun
 ---
 
 ## 🎯 Currently Learning  
+
 - Advanced SQL for analytics  
 - Feature engineering fundamentals  
 - Statistical thinking for data science  
 - Better visualization & storytelling  
 
 ---
-## 📊 GitHub Activity
+
+## 📊 GitHub Activity  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohsinKhalidDar&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -83,8 +86,10 @@ I focus on **understanding data deeply**, asking the right questions, and commun
   <img src="https://streak-stats.demolab.com?user=MohsinKhalidDar&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
 ## 🌐 Connect  
+
 <p align="center">
   <a href="mailto:mohsinmohsin6722@gmail.com">
     <img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=black" />
@@ -102,8 +107,6 @@ I focus on **understanding data deeply**, asking the right questions, and commun
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-</p>
-
 
 ---
 
@@ -112,4 +115,3 @@ I focus on **understanding data deeply**, asking the right questions, and commun
   <br>
   <sub><strong>Data first. Insights always.</strong></sub>
 </p>
-
