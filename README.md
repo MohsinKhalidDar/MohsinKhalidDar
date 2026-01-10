@@ -1,8 +1,9 @@
 # Mohsin Dar  
-### Data Analyst • Aspiring Data Scientist • Python | SQL
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=MohsinKhalidDar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+### Data Analyst • Aspiring Data Scientist • Python | SQL
+
 
 
 <p align="center">
