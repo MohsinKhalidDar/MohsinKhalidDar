@@ -73,16 +73,6 @@ I focus on **understanding data deeply**, asking the right questions, and commun
 - Better visualization & storytelling  
 
 ---
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsinKhalidDar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohsinKhalidDar&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ## 🌐 Connect  
 <p align="center">
