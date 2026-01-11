@@ -61,7 +61,16 @@ I focus on **understanding data deeply**, asking the right questions, and commun
 - Data cleaning & transformation  
 - SQL querying & reporting  
 - Data visualization & insight communication  
-- API & web-sourced data analysis  
+- API & web-sourced data analysis
+
+---
+
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=MohsinKhalidDar&theme=dark&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
