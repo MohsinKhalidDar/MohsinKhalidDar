@@ -1,8 +1,5 @@
 # Mohsin Dar  
 ### Data Analyst • Aspiring Data Scientist • Python | SQL
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MohsinKhalidDar&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&color=22D3EE&center=true&vCenter=true&width=720&lines=Data+Analysis+%7C+Python+%7C+SQL;Exploratory+Data+Analysis+%26+Visualization;Turning+Data+into+Insights">
@@ -65,15 +62,6 @@ I focus on **understanding data deeply**, asking the right questions, and commun
 
 ---
 
-<p align="center">
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=MohsinKhalidDar&theme=dark&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ## 🎯 Currently Learning  
 - Advanced SQL for analytics  
 - Feature engineering fundamentals  
@@ -110,4 +98,6 @@ I focus on **understanding data deeply**, asking the right questions, and commun
   <br>
   <sub><strong>Data first. Insights always.</strong></sub>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohsinKhalidDar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
