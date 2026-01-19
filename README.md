@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=header" style="width: 100%; height: auto;" />
+
 # Mohsin Dar  
 ### Data Analyst • Aspiring Data Scientist • Python | SQL
 
