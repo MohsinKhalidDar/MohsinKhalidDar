@@ -9,13 +9,6 @@
 
 ---
 
-## 📊 About Me  
-I’m a **B.Tech graduate** transitioning into **data analytics and data science**, with hands-on experience in **Python-based analysis, SQL, and data visualization**.
-
-I focus on **understanding data deeply**, asking the right questions, and communicating insights clearly — not just running models.
-
----
-
 ## 🧰Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,c,js,react,html,css,vscode,github,jupyternotebook" />
