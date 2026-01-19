@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=header" style="width: 100%; height: auto;" />
-
 # Mohsin Dar  
 ### Data Analyst • Aspiring Data Scientist • Python | SQL
 
@@ -103,3 +102,4 @@ I focus on **understanding data deeply**, asking the right questions, and commun
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohsinKhalidDar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer" style="width: 100%; height: auto;" />
