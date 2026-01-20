@@ -18,6 +18,7 @@
   <!-- Core Data Handling -->
   <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-0A0A0A?style=for-the-badge&logo=polars&logoColor=white" />
 
   <!-- Visualization -->
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
