@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Polars-0A0A0A?style=for-the-badge&logo=polars&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polars-Fast%20DataFrames-22D3EE?style=for-the-badge" />
-  <a href="https://pola.rs/">
-  <img src="https://img.shields.io/badge/Polars-Fast%20DataFrames-22D3EE?style=for-the-badge" />
-</a>
-
-
 
   <!-- Visualization -->
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
