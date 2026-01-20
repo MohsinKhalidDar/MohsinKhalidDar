@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=header" style="width: 100%; height: auto;" />
-
-# Mohsin Dar  
-### Data Analyst • Aspiring Data Scientist • Python | SQL
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&color=22D3EE&center=true&vCenter=true&width=720&lines=Data+Analysis+%7C+Python+%7C+SQL;Exploratory+Data+Analysis+%26+Visualization;Turning+Data+into+Insights">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&color=22D3EE&center=true&vCenter=true&width=720&lines=Data+Analysis+%7C+Python+%7C+SQL;Exploratory+Data+Analysis+%26+Visualization;Turning+Data+into+Insights;Aspiring Data Scientist">
 </p>
 
 ---
