@@ -1,63 +1,59 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=header" style="width: 100%; height: auto;" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&color=22D3EE&center=true&vCenter=true&width=720&lines=Data+Analysis+%7C+Python+%7C+SQL;Exploratory+Data+Analysis+%26+Visualization;Turning+Data+into+Insights">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&color=22D3EE&center=true&vCenter=true&width=820&lines=C%2B%2B+%7C+Python+%7C+SQL+%7C+React;Data+Analytics+%7C+Problem+Solving+%7C+Web+Development;Building+Projects+and+Turning+Ideas+into+Solutions">
 </p>
 
 ---
 
-## 🧰Tech Stack  
+## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,react,html,css,vscode,github,jupyternotebook" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,react,html,css,vscode,github,jupyter,git,linux" />
 </p>
 
 <p align="center">
-  <!-- Core Data Handling -->
+  <!-- Programming & Core -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <!-- Data Analysis -->
   <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polars-0A0A0A?style=for-the-badge&logo=polars&logoColor=white" />
-
-  <!-- Visualization -->
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-
-  <!-- Statistics & Modeling -->
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Statsmodels-2C3E50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
 
-  <!-- Data Collection -->
-  <img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-4EAA25?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
+  <!-- Web & Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-  <!-- Workflow & Tools -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
 
 ---
 
 ## 📈 What I Work On  
-- Exploratory Data Analysis (EDA)  
-- Data cleaning & transformation  
-- SQL querying & reporting  
-- Data visualization & insight communication  
-- API & web-sourced data analysis
+- Data Analysis & Exploratory Data Analysis (EDA)  
+- Problem Solving & Data Structures / Algorithms  
+- C++ programming and coding practice  
+- SQL querying, reporting & data cleaning  
+- Web development using React, HTML, CSS & JavaScript  
+- Building practical projects using APIs and real-world datasets  
 
 ---
 
 ## 🎯 Currently Learning  
 - Advanced SQL for analytics  
-- Feature engineering fundamentals  
-- Statistical thinking for data science  
+- Data Structures & Algorithms in C++  
+- Machine Learning fundamentals  
+- React project development  
 - Better visualization & storytelling  
 
 ---
@@ -80,14 +76,13 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-</p>
 
 ---
 
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Mario_Gameplay.gif" width="170" />
   <br>
-  <sub><strong>Data first. Insights always.</strong></sub>
+  <sub><strong>Code. Analyze. Build. Improve.</strong></sub>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohsinKhalidDar&label=Profile%20Views&color=0e75b6&style=flat" />
