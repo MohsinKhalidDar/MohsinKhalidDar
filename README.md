@@ -42,24 +42,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
----
-
-## 📈 What I Work On  
-- Exploratory Data Analysis (EDA)  
-- Data cleaning & transformation  
-- SQL querying & reporting  
-- Data visualization & insight communication  
-- API & web-sourced data analysis
-
----
-
-## 🎯 Currently Learning  
-- Advanced SQL for analytics  
-- Feature engineering fundamentals  
-- Statistical thinking for data science  
-- Better visualization & storytelling  
-
 ---
 
 ## 🌐 Connect  
